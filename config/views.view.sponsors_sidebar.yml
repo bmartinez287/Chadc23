@@ -233,8 +233,8 @@ display:
           plugin_id: taxonomy_index_tid
           operator: or
           value:
-            32: 32
-            33: 33
+            29: 29
+            27: 27
           group: 1
           exposed: false
           expose:
@@ -311,14 +311,6 @@ display:
         - 'user.node_grants:view'
         - user.permissions
       tags:
-        - 'config:core.entity_view_display.node.featured_speaker.default'
-        - 'config:core.entity_view_display.node.featured_speaker.teaser'
-        - 'config:core.entity_view_display.node.page.default'
-        - 'config:core.entity_view_display.node.page.teaser'
-        - 'config:core.entity_view_display.node.session.default'
-        - 'config:core.entity_view_display.node.session.teaser'
-        - 'config:core.entity_view_display.node.sponsor.default'
-        - 'config:core.entity_view_display.node.sponsor.teaser'
         - 'config:field.storage.node.field_sponsor_level'
   block_1:
     id: block_1
@@ -335,12 +327,4 @@ display:
         - 'user.node_grants:view'
         - user.permissions
       tags:
-        - 'config:core.entity_view_display.node.featured_speaker.default'
-        - 'config:core.entity_view_display.node.featured_speaker.teaser'
-        - 'config:core.entity_view_display.node.page.default'
-        - 'config:core.entity_view_display.node.page.teaser'
-        - 'config:core.entity_view_display.node.session.default'
-        - 'config:core.entity_view_display.node.session.teaser'
-        - 'config:core.entity_view_display.node.sponsor.default'
-        - 'config:core.entity_view_display.node.sponsor.teaser'
         - 'config:field.storage.node.field_sponsor_level'

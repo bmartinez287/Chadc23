@@ -148,4 +148,5 @@ content:
     weight: 0
     region: content
 hidden:
+  field_linkedin_profile_link: true
   member_for: true
