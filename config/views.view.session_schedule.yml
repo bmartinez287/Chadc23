@@ -368,8 +368,8 @@ display:
           plugin_id: datetime
           operator: between
           value:
-            min: '2024-02-23 00:00:00'
-            max: '2024-02-23 23:59:59'
+            min: '2025-02-21 00:00:00'
+            max: '2025-02-21 23:59:59'
             value: ''
             type: date
           group: 1
@@ -480,8 +480,8 @@ display:
           plugin_id: datetime
           operator: between
           value:
-            min: '2024-02-24 00:00:00'
-            max: '2024-02-24 23:59:59'
+            min: '2025-02-22 00:00:00'
+            max: '2025-02-22 23:59:59'
             value: ''
             type: date
           group: 1
@@ -590,8 +590,8 @@ display:
           plugin_id: datetime
           operator: between
           value:
-            min: '2024-02-25 00:00:00'
-            max: '2024-02-25 23:59:59'
+            min: '2025-02-23 00:00:00'
+            max: '2025-02-23 23:59:59'
             value: ''
             type: date
           group: 1

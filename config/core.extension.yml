@@ -75,9 +75,9 @@ module:
   pathauto: 1
   views: 10
   login_redirect_per_role: 1000
-  standard: 1000
+  minimal: 1000
 theme:
   claro: 0
   pubsub: 0
   gin: 0
-profile: standard
+profile: minimal

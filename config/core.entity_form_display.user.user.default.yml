@@ -188,3 +188,4 @@ content:
     third_party_settings: {  }
 hidden:
   contact: true
+  field_linkedin_profile_link: true
